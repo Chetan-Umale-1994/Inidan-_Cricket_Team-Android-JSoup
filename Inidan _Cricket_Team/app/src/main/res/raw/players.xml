@@ -1,0 +1,127 @@
+<team>
+    <player>
+        <name>Rohit Sharma</name>
+        <dob>Apr 30, 1987</dob>
+        <place>Nagpur, Maharashtra</place>
+        <role>Batsman</role>
+        <batting_style>Right Handed Bat</batting_style>
+        <bowling_style>Right-arm offbreak</bowling_style>
+        <image>rohit.jpg</image>
+        <url>https://www.news18.com/cricketnext/profile/rohit-sharma/3852.html</url>
+    </player>
+
+    <player>
+        <name>Shikhar Dhawan</name>
+        <dob>Dec 05, 1985</dob>
+        <place>Delhi</place>
+        <role>Batsman</role>
+        <batting_style>Left Handed Bat</batting_style>
+        <bowling_style>Right-arm offbreak</bowling_style>
+        <image>dhawan.jpg</image>
+        <url>https://www.news18.com/cricketnext/profile/shikhar-dhawan/3722.html</url>
+    </player>
+
+    <player>
+        <name>Virat Kohli</name>
+        <dob>Nov 05, 1988</dob>
+        <place>Delhi</place>
+        <role>Batsman</role>
+        <batting_style>Right Handed Bat</batting_style>
+        <bowling_style>Right-arm medium</bowling_style>
+        <image>kohli.jpg</image>
+        <url>https://www.news18.com/cricketnext/profile/virat-kohli/3993.html</url>
+    </player>
+
+    <player>
+        <name>Ambati Rayudu</name>
+        <dob>Sep 23, 1985</dob>
+        <place>Guntur, Andhra Pradesh</place>
+        <role>WK-Batsman</role>
+        <batting_style>Right Handed Bat</batting_style>
+        <bowling_style>Right-arm offbreak</bowling_style>
+        <image>rayudu.jpg</image>
+        <url>https://www.news18.com/cricketnext/profile/ambati-rayudu/4176.html</url>
+    </player>
+
+
+
+
+
+    <player>
+        <name>MS Dhoni</name>
+        <dob>Jul 07, 1981</dob>
+        <place>Ranchi</place>
+        <role>WK-Batsman</role>
+        <batting_style>Right Handed Bat</batting_style>
+        <bowling_style>Right-arm medium</bowling_style>
+        <image>dhoni.jpg</image>
+        <url>https://www.news18.com/cricketnext/profile/ms-dhoni/3676.html</url>
+    </player>
+
+    <player>
+        <name>Kedar Jadhav</name>
+        <dob>Mar 26, 1985</dob>
+        <place>Pune, Maharashtra</place>
+        <role>Batting Allrounder</role>
+        <batting_style>Right Handed Bat</batting_style>
+        <bowling_style>Right-arm offbreak</bowling_style>
+        <image>jadhav.jpg</image>
+        <url>https://www.news18.com/cricketnext/profile/kedar-jadhav/4532.html</url>
+    </player>
+
+    <player>
+        <name>Ravindra Jadeja</name>
+        <dob>Dec 06, 1988</dob>
+        <place>Navagam-Khed, Saurashtra</place>
+        <role>Bowling Allrounder</role>
+        <batting_style>Left Handed Bat</batting_style>
+        <bowling_style>Left-arm orthodox</bowling_style>
+        <image>jadeja.jpg</image>
+        <url>https://www.news18.com/cricketnext/profile/ravindra-jadeja/3850.html</url>
+    </player>
+
+    <player>
+        <name>Bhuvneshwar Kumar</name>
+        <dob>Feb 05, 1990</dob>
+        <place>Meerut, India</place>
+        <role>Bowler</role>
+        <batting_style>Right Handed Bat</batting_style>
+        <bowling_style>Right-arm fast-medium</bowling_style>
+        <image>bhuvaneshwar.jpg</image>
+        <url>https://www.news18.com/cricketnext/profile/bhuvneshwar-kumar/5132.html</url>
+    </player>
+
+    <player>
+        <name>Kuldeep Yadav</name>
+        <dob>Dec 14, 1994</dob>
+        <place>Kanpur, Uttar Pradesh</place>
+        <role>Bowler</role>
+        <batting_style>Left Handed Bat</batting_style>
+        <bowling_style>Left-arm chinaman</bowling_style>
+        <image>kuldeep.jpg</image>
+        <url>https://www.news18.com/cricketnext/profile/kuldeep-yadav/63187.html</url>
+    </player>
+
+    <player>
+        <name>Jasprit Bumrah</name>
+        <dob>Dec 06, 1993</dob>
+        <place>Ahmedabad</place>
+        <role>Bowler</role>
+        <batting_style>Right Handed Bat</batting_style>
+        <bowling_style>Right-arm fast-medium</bowling_style>
+        <image>bumrah.jpg</image>
+        <url>https://www.news18.com/cricketnext/profile/jasprit-bumrah/63755.html</url>
+    </player>
+
+    <player>
+        <name>Hardik Pandya</name>
+        <dob>Oct 11, 1993</dob>
+        <place>Choryasi, Gujarat</place>
+        <role>Bowling Allrounder</role>
+        <batting_style>Right Handed Bat</batting_style>
+        <bowling_style>Right-arm fast-medium</bowling_style>
+        <image>pandya.jpg</image>
+        <url>https://www.news18.com/cricketnext/profile/hardik-pandya/63751.html</url>
+    </player>
+
+</team>
